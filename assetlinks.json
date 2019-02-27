@@ -1,9 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.wemakeprice.myinstantapp.app",
-               "sha256_cert_fingerprints": ["89:C6:8C:26:7A:05:D9:4A:7E:4E:C6:EF:53:28:D6:3C:73:82:17:F6:0E:55:DD:EB:14:88:5E:EA:1A:44:2F:FF"] }
-},{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.test.android.instantapps.samples124.hello124",
-               "sha256_cert_fingerprints": ["B7:7A:57:A4:4C:D2:E5:D3:26:C4:C0:0F:54:C0:8E:6B:C0:1F:3F:AC:FD:17:FC:D5:6C:72:5D:DA:2F:F4:78:D7"] }
+               "sha256_cert_fingerprints": ["92:D9:D3:75:6B:AB:31:47:DF:65:C9:5F:6D:09:5E:83:1C:85:98:03:23:C9:67:5A:B8:97:12:35:72:57:82:10"] }
 }]

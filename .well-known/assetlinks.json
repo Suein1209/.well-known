@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.wemakeprice.myinstantapp.app",
-               "sha256_cert_fingerprints": ["SHA256: 92:D9:D3:75:6B:AB:31:47:DF:65:C9:5F:6D:09:5E:83:1C:85:98:03:23:C9:67:5A:B8:97:12:35:72:57:82:10"] }
+               "sha256_cert_fingerprints": ["92:D9:D3:75:6B:AB:31:47:DF:65:C9:5F:6D:09:5E:83:1C:85:98:03:23:C9:67:5A:B8:97:12:35:72:57:82:10"] }
 }]
