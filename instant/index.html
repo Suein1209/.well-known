@@ -6,23 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Thimble Sample</title>
   <link rel="stylesheet" href="style.css">
-  <script src="browser-deeplink.js" type="text/javascript"></script>
-  <script type="text/javascript">
-    deeplink.setup({
-      android: {
-        appId: "com.wemakeprice.myinstantapp.app"
-      }
-    });
-
-    function clickHandler() {
-      deeplink.open('https://zhzhdk1209.netlify.com/instant');
-      return false;
-    }
-
-    window.onload = function() {
-      window.setTimeout(clickHandler, 100)
-    }
-  </script>
 </head>
 
 <body>
